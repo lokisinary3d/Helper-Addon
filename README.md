@@ -1,7 +1,5 @@
 # Helper-Addon
 
-# Helper Add-On 
-
 # README.md
 
 Table of Contents
