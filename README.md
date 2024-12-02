@@ -17,7 +17,7 @@ Table of Contents
   - [Text Web Search](#text-web-search-1)
   - [Blender Manual RO (Recognized Object)](#blender-manual-ro-recognized-object-1)
   - [Blender Manual Text](#blender-manual-text-1)
-    - [Online Resources Panel](#online-resources-panel-1)
+  - [Online Resources Panel](#online-resources-panel-1)
   - [Addons Panel](#addons-panel-1)
   - [Helper Community Panel](#helper-community-panel-1)
 - [Version History](#version-history)
