@@ -430,7 +430,7 @@ The Helper Add-On for Blender is a custom extension for Blender that enhances yo
 
    ### Version 1.4:**
       - Added Two New Panels Helper Community Panel and Addons Panel in Helper Addon.
-      - Helper Community Panel Provide Real Timer Fourm Collabration Bettwen Users.
+      - Helper Community Panel Provide Real Timer Fourm Collabration between Users.
       - Addons Panel Provide The Details Related To All Instaled And Enabled Addons in Blender.
       - Includes login, registration, posting, and fetching features.
       - Enhanced the user interface for community engagement.
